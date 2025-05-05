@@ -5,66 +5,6 @@ file = "config/emi.css"
 hash = "00306273fea6457a17ab27de4a55f01cf1c2b7804d10d624d09f080f9d3f119a"
 
 [[files]]
-file = "config/journeymap/config/6.0/addons/addon.cobblemon.config"
-hash = "a2caa1369a29c5440396416dda82250bb6dfce8dbcb24e926b948ab5048cd247"
-
-[[files]]
-file = "config/journeymap/config/6.0/journeymap.core.config"
-hash = "e258b431120f18845d9cc63fa426766f91fc0120f84febd099000cce12a652dc"
-
-[[files]]
-file = "config/journeymap/config/6.0/journeymap.fullmap.config"
-hash = "2e9fee3e9c5360a15ec7a64c4438dbebacaa3c3fb64b64f9a45fea046158cda4"
-
-[[files]]
-file = "config/journeymap/config/6.0/journeymap.minimap.config"
-hash = "f78aff034f661c92e92309dd4f6e105771e5dd69dab48d51b712b291ab665b00"
-
-[[files]]
-file = "config/journeymap/config/6.0/journeymap.minimap2.config"
-hash = "13b59faa6bd5c9de83971c5e0192c245885c135cdd97f6d13a44ae619972d982"
-
-[[files]]
-file = "config/journeymap/config/6.0/journeymap.rendering.config"
-hash = "6cb03023007b86a27de25b03f62331c0391ddd161f382b2c0156ebe33f939858"
-
-[[files]]
-file = "config/journeymap/config/6.0/journeymap.topo.config"
-hash = "0d22a15190481d1b219013d3267c49d49e38427547dc06618e6754a312279ad0"
-
-[[files]]
-file = "config/journeymap/config/6.0/journeymap.waypoint.config"
-hash = "ad23d33c8736578bfbf820b1394d5a33402357d5534e97480915c388867d9385"
-
-[[files]]
-file = "config/journeymap/config/6.0/journeymap.webmap.config"
-hash = "3d7dadee36b14bf977a2a70d9e4e5f32921b2ca6d55f5796d8e2c66849947016"
-
-[[files]]
-file = "config/journeymap/journeymap.log"
-hash = "94075dc4cdaea8d0ac79c08d67d1bdef8db502dc2bd4dcff59b31442b766bf2f"
-
-[[files]]
-file = "config/journeymap/server/6.0/journeymap.server.default.config"
-hash = "75fea923963baed8585c664066bb3ccf212acc64a98ca5b2acfb1db9f9b755f8"
-
-[[files]]
-file = "config/journeymap/server/6.0/journeymap.server.global.config"
-hash = "34309486942f0642c2cdb006399871f974bd86b2b45ba4a2cd8ab873daffb33f"
-
-[[files]]
-file = "config/journeymap/server/6.0/journeymap.server.minecraft~overworld.config"
-hash = "69e613f97cee5c35aa1f27fd151962221c62aee958c1ce0efa796cc94596ccb4"
-
-[[files]]
-file = "config/journeymap/server/6.0/journeymap.server.minecraft~the_end.config"
-hash = "8d464e61e28cefa1b74912289e6d70bf9a2836e5863e91c46a78e04dbaf0cb23"
-
-[[files]]
-file = "config/journeymap/server/6.0/journeymap.server.minecraft~the_nether.config"
-hash = "966e2cb424541596b211a5ab6e17eb0af43080d9d62afefc6223169db2bf8f98"
-
-[[files]]
 file = "config/paxi/resourcepacks/cobblemon-interface-modded.pw.toml"
 hash = "5e77f791209bf11cd50d8017e4ad210450236316de473df22f9c0f0bc8bb0afb"
 metafile = true
@@ -85,8 +25,73 @@ hash = "f265c9f154a01ce98bd566f6648a7bf793082e449266961a2cd5a6851fb7713b"
 metafile = true
 
 [[files]]
+file = "journeymap/config/6.0/addons/addon.cobblemon.config"
+hash = "a2caa1369a29c5440396416dda82250bb6dfce8dbcb24e926b948ab5048cd247"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.core.config"
+hash = "e258b431120f18845d9cc63fa426766f91fc0120f84febd099000cce12a652dc"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.fullmap.config"
+hash = "2e9fee3e9c5360a15ec7a64c4438dbebacaa3c3fb64b64f9a45fea046158cda4"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap.config"
+hash = "f78aff034f661c92e92309dd4f6e105771e5dd69dab48d51b712b291ab665b00"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap2.config"
+hash = "13b59faa6bd5c9de83971c5e0192c245885c135cdd97f6d13a44ae619972d982"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.rendering.config"
+hash = "6cb03023007b86a27de25b03f62331c0391ddd161f382b2c0156ebe33f939858"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.topo.config"
+hash = "0d22a15190481d1b219013d3267c49d49e38427547dc06618e6754a312279ad0"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.waypoint.config"
+hash = "ad23d33c8736578bfbf820b1394d5a33402357d5534e97480915c388867d9385"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.webmap.config"
+hash = "3d7dadee36b14bf977a2a70d9e4e5f32921b2ca6d55f5796d8e2c66849947016"
+
+[[files]]
+file = "journeymap/journeymap.log"
+hash = "94075dc4cdaea8d0ac79c08d67d1bdef8db502dc2bd4dcff59b31442b766bf2f"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.default.config"
+hash = "75fea923963baed8585c664066bb3ccf212acc64a98ca5b2acfb1db9f9b755f8"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.global.config"
+hash = "34309486942f0642c2cdb006399871f974bd86b2b45ba4a2cd8ab873daffb33f"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.minecraft~overworld.config"
+hash = "69e613f97cee5c35aa1f27fd151962221c62aee958c1ce0efa796cc94596ccb4"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.minecraft~the_end.config"
+hash = "8d464e61e28cefa1b74912289e6d70bf9a2836e5863e91c46a78e04dbaf0cb23"
+
+[[files]]
+file = "journeymap/server/6.0/journeymap.server.minecraft~the_nether.config"
+hash = "966e2cb424541596b211a5ab6e17eb0af43080d9d62afefc6223169db2bf8f98"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "ef031e859a6f4fc358334863d71fd87a3107924ed40ec8e380600a509886eee2"
 metafile = true
 
 [[files]]
@@ -222,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "40c60c458184ab9d15fdcc4c610607eca60a1557bbf484fad2942a803d75e0ec"
 metafile = true
 
 [[files]]
