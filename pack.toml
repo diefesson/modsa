@@ -1,0 +1,12 @@
+name = "Modsa"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0c3d740e153d7ff2519cd8787eda566c1119f77c74408dc11bf5fc1955a9b637"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.1"

@@ -1,0 +1,61 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "bb18350ed7962e9bbe9961fd86a3396ffae34eaad2808720d0a4d2a6161000df"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "56d0a735ef8c0bfe4ee06bfa66cd11753002c98411eb167cad68f8adcbd76d0a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "18f45db393d99493c00150c2d4a74d927fc1eccb575629ef1a1fa72ef950b7ff"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7e27ab32357a80c066e6cdfabafc87f31f778a1ebaefe03f82e38d0763de760b"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "bba6f62c0dc4366620bf0f93081e8b81bcd77b29653faa710c961e53a88d1301"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "82e5f5bef62be9fa00217d07fa6244ff10765745bd642f863186ad6189d58426"
+metafile = true
+
+[[files]]
+file = "mods/skinchanger.pw.toml"
+hash = "1c39851b0a5f43954988d728554c0b21734c95cb8528903e417bfd2ff9ea4440"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "fe1b08c25d551c4ce9dc31d0373cfda89e3678149a79196afddb6edf267a125e"
+metafile = true
