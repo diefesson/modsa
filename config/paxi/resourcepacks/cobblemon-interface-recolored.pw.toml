@@ -1,0 +1,13 @@
+name = "Cobblemon Interface: Recolored"
+filename = "Cobblemon Interface Recolored v1.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/R6DWLPUQ/versions/yLyJHjIy/Cobblemon%20Interface%20Recolored%20v1.0.1.zip"
+hash-format = "sha512"
+hash = "b7322831feec7baa360d1042010959e242a19e90ce942738b4c0c6b6ec14efec01561a02027a16eebcafdaa6ac7990e27eb8108711b6168acf42df5242d75314"
+
+[update]
+[update.modrinth]
+mod-id = "R6DWLPUQ"
+version = "yLyJHjIy"
