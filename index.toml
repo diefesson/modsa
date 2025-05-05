@@ -59,3 +59,7 @@ metafile = true
 file = "mods/travelersbackpack.pw.toml"
 hash = "fe1b08c25d551c4ce9dc31d0373cfda89e3678149a79196afddb6edf267a125e"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "160fc1de4487eb4783249d2a471c57ef93a187f7a1364744fd9a7c41abf5cbe5"
