@@ -85,8 +85,8 @@ file = "journeymap/server/6.0/journeymap.server.minecraft~the_nether.config"
 hash = "966e2cb424541596b211a5ab6e17eb0af43080d9d62afefc6223169db2bf8f98"
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+file = "mods/appleskin.pw.toml"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
@@ -140,6 +140,11 @@ hash = "18f45db393d99493c00150c2d4a74d927fc1eccb575629ef1a1fa72ef950b7ff"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
@@ -152,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "1c29e9aa12233166665d5ad50c603e5f41159217db5b6efd6dd614eb9e80dde8"
 metafile = true
 
 [[files]]
@@ -215,11 +225,6 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
-file = "mods/skinchanger.pw.toml"
-hash = "1c39851b0a5f43954988d728554c0b21734c95cb8528903e417bfd2ff9ea4440"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
 metafile = true
@@ -251,4 +256,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "360faafd0f95b2a13d1d8f98d7d6f13abf7eb332c2458a50a2623745837621a7"
+hash = "a8fb4859c8fe230d8940d8ae15ae7ac71a03e7601042923d9e920182c0f00e07"
